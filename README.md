@@ -26,6 +26,8 @@ Links
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [IPython](http://ipython.org/)
+  - [nbviewer](http://nbviewer.ipython.org/)
+  - [Notebook Gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 #### Statistics and Machine Learning
 
