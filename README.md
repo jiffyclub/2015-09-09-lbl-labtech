@@ -60,3 +60,7 @@ different interfaces for matplotlib.
 
 - [Git](http://git-scm.com/)
 - [GitHub](https://github.com/)
+
+### Software Carpentry
+
+- [Home Page](http://software-carpentry.org/)
