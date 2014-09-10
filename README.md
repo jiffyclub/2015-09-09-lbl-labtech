@@ -62,6 +62,7 @@ different interfaces for matplotlib.
 
 - [Git](http://git-scm.com/)
 - [GitHub](https://github.com/)
+- [Bitbucket](https://bitbucket.org/)
 
 ### Software Carpentry
 
