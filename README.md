@@ -1,4 +1,4 @@
-Intro to Scientific Python - LBL Lab Day 2014
+Intro to Scientific Python - LBL LabTech 2015
 =============================================
 
 Links
@@ -8,8 +8,8 @@ Links
 
 - [Python](https://www.python.org/)
 - [Docs](https://docs.python.org/)
-- [Standard Library](https://docs.python.org/2/library/index.html)
-  - [List of modules](https://docs.python.org/2/py-modindex.html)
+- [Standard Library](https://docs.python.org/3/library/index.html)
+  - [List of modules](https://docs.python.org/3/py-modindex.html)
 
 ### Installation
 
@@ -26,7 +26,8 @@ Links
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [IPython](http://ipython.org/)
-  - [nbviewer](http://nbviewer.ipython.org/)
+  - [Jupyter](https://jupyter.org/)
+  - [nbviewer](http://nbviewer.jupyter.org/)
   - [Notebook Gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 #### Statistics and Machine Learning
@@ -56,14 +57,14 @@ different interfaces for matplotlib.
 - [Seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/)
 - [Bokeh](http://bokeh.pydata.org/)
 - [ggplot](http://ggplot.yhathq.com/)
-- [brewer2mpl](https://github.com/jiffyclub/brewer2mpl/wiki)
+- [Palettable](https://jiffyclub.github.io/palettable/)
 
 ### Git
 
-- [Git](http://git-scm.com/)
+- [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [Bitbucket](https://bitbucket.org/)
 
 ### Software Carpentry
 
-- [Home Page](http://software-carpentry.org/)
+- [Home Page](https://software-carpentry.org/)
