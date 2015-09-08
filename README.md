@@ -10,7 +10,8 @@ Presenters
 Materials
 ---------
 
-http://j.mp/labtech-python-2015
+- All Materials: http://j.mp/labtech-python-2015
+- [Scientific Library Slides](https://cdn.rawgit.com/jiffyclub/2015-09-09-lbl-labtech/master/scipy-slides/Scientific%20Python%20Tools.slides.html#/)
 
 Schedule
 --------
