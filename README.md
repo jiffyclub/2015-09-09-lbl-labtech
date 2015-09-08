@@ -1,6 +1,33 @@
 Intro to Scientific Python - LBL LabTech 2015
 =============================================
 
+Presenters
+----------
+
+- [Matt Davis](http://penandpants.com)
+- [Azalee Bostroem](https://twitter.com/astro_az)
+
+Materials
+---------
+
+http://j.mp/labtech-python-2015
+
+Schedule
+--------
+
+- Hour 1
+  - Python
+  - NumPy
+  - Matplotlib
+- Hour 2
+  - Pandas
+  - SciPy
+  - Advanced Matplotlib
+- Hour 3
+  - IPython Notebook
+  - Version Control with Git
+  - Python Debugger (pdb)
+
 Links
 -----
 
