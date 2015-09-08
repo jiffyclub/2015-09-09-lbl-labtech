@@ -11,7 +11,7 @@ Materials
 ---------
 
 - All Materials: http://j.mp/labtech-python-2015
-- [Scientific Library Slides](https://cdn.rawgit.com/jiffyclub/2015-09-09-lbl-labtech/master/scipy-slides/Scientific%20Python%20Tools.slides.html#/)
+- [Scientific Library Slides](https://jiffyclub.github.io/2015-07-06-scipy/scientific_python/slides/Scientific%20Python%20Tools.slides.html#/)
 
 Schedule
 --------
