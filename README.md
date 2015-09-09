@@ -22,8 +22,7 @@ Schedule
   - Matplotlib
 - Hour 2
   - Pandas
-  - SciPy
-  - Advanced Matplotlib
+  - Scientific Python Stack
 - Hour 3
   - IPython Notebook
   - Version Control with Git
