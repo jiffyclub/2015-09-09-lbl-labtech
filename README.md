@@ -6,6 +6,7 @@ Presenters
 
 - [Matt Davis](http://penandpants.com)
 - [Azalee Bostroem](https://twitter.com/astro_az)
+- (We are from [Software Carpentry](https://software-carpentry.org/))
 
 Materials
 ---------
